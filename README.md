@@ -1,6 +1,3 @@
-# template
-
-
 # About the project
 ## Introduction of the project
 The college's multifunctional card system, aptly named the "Card," serves as a comprehensive solution for various campus needs, including verification, identification, and payment gateways. This innovative system is designed to streamline administrative processes and enhance convenience for students, faculty, and staff.
