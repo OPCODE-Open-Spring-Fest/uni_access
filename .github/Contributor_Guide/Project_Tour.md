@@ -32,8 +32,16 @@ In the 'Contracts' folder, you'll find a single file with a '.sol' extension. Th
 |       pre-commit
 |
 \---contracts
-        shape.sol
+        card.sol
 ```
 
 ## Tech stack: 
+
+# For Contracts:
 Solidity
+
+# For Frontend :
+React,TailwindCSS,Html
+
+# For Backend :
+According to your choice
