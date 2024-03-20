@@ -1,6 +1,6 @@
 # Project Tour
 
-In the 'Contracts' folder, you'll find a single file with a '.sol' extension. This file is where you should make all your changes. Simply open this file to access the contract code and update it as needed. If you have any questions or need assistance with the changes, feel free to ask!.
+In the 'Contracts' folder, you'll find a single file with a '.sol' extension. This file is where you should make all your changes regarding the solidity and then there is frontend and backend folders where you need to make the changes accordingly. Simply open the files to access the codes and update it as needed. If you have any questions or need assistance with the changes, feel free to ask!.
 
 ```bash
 
@@ -52,7 +52,7 @@ In the 'Contracts' folder, you'll find a single file with a '.sol' extension. Th
 |
 +---backend
 +---contracts
-|       cards.sol
+|       uni_access.sol
 |
 \---frontend
     |   .eslintrc.cjs
