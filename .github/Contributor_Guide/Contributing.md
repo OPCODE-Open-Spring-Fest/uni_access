@@ -1,12 +1,12 @@
-# Contribute to card
+# Contribute to uni_access
 
-Thank you for taking the time to contribute to card! We really appreciate it. 
+Thank you for taking the time to contribute to uni_access! We really appreciate it. 
 
 Before contributing, please make sure to read the [Code of Conduct](../../CODE_OF_CONDUCT.md). We expect you to follow it in all your interactions with the project.
 
-## New to card?
+## New to uni_access?
 
-If you are new to card, please take a look at the [documentation](./Project_Tour.md). It is a great place to start.
+If you are new to uni_access, please take a look at the [documentation](./Project_Tour.md). It is a great place to start.
 
 ## New Contributor Guide
 
@@ -22,23 +22,23 @@ If you find a bug in the source code, you can help us by [submitting an issue](.
 
 ### Suggesting Enhancements
 
-If you want to suggest an enhancement to card, please [submit an issue](../ISSUE_TEMPLATE/feature_request.yaml).
+If you want to suggest an enhancement to uni_access, please [submit an issue](../ISSUE_TEMPLATE/feature_request.yaml).
 
 ### Pull Requests
 
-If you want to contribute to card, submit a pull request.
+If you want to contribute to uni_access, submit a pull request.
 
-- url: `https://github.com/OPCODE-Open-Spring-Fest/card/compare/branch...YOURGITHUBUSERNAME:card:BRANCH?quick_pull=1&template=pr.md`
+- url: `https://github.com/OPCODE-Open-Spring-Fest/uni_access/compare/branch...YOURGITHUBUSERNAME:uni_access:BRANCH?quick_pull=1&template=pr.md`
   
 ### Requirements
-    To run *card*, you need the following requirements:
+    To run *uni_access*, you need the following requirements:
 
 - [Node.js](https://nodejs.org/)
 
 
 ### Setup
 
-To set up *card* on your local machine, follow these steps:
+To set up *uni_access* on your local machine, follow these steps:
 
 ## Installation Steps
 
@@ -48,17 +48,17 @@ To set up *card* on your local machine, follow these steps:
 2. Clone the forked repository:
 
 ```bash
-git clone https://github.com/<yourusername>/card.git
+git clone https://github.com/<yourusername>/uni_access.git
 ```
 
 
 3. Navigate to the project directory:
 ```bash
-cd card
+cd uni_access
 ```
 
 4. Install Node.js dependencies:
 ```bash
 npm i
 ```
-Congratulations! You have successfully set up *card* on your machine.
+Congratulations! You have successfully set up *uni_access* on your machine.
