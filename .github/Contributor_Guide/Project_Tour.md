@@ -32,7 +32,7 @@ In the 'Contracts' folder, you'll find a single file with a '.sol' extension. Th
 |       pre-commit
 |
 \---contracts
-        card.sol
+        cards.sol
 ```
 
 ## Tech stack: 
