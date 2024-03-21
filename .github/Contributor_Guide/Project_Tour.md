@@ -10,17 +10,17 @@ In the 'Contracts' folder, you'll find a single file with a '.sol' extension. Th
 |   package-lock.json
 |   package.json
 |   README.md
-|   
+|
 +---.github
 |   +---Contributor_Guide
 |   |       commiting.md
 |   |       Contributing.md
 |   |       Project_Tour.md
-|   |       
+|   |
 |   +---ISSUE_TEMPLATE
 |   |       bug_report.yaml
 |   |       feature_request.yaml
-|   |       
+|   |
 |   +---PULL_REQUEST_TEMPLATE
 |   |       pr.md
 |   |
@@ -50,14 +50,15 @@ In the 'Contracts' folder, you'll find a single file with a '.sol' extension. Th
 |           pre-rebase
 |           prepare-commit-msg
 |
-+---backend
 +---contracts
 |       uni_access.sol
+|       Uni_Access.txt
 |
 \---frontend
     |   .eslintrc.cjs
     |   .gitignore
     |   index.html
+    |   package-lock.json
     |   package.json
     |   README.md
     |   vite.config.js
