@@ -1,51 +1,53 @@
-# About the project
+# Uni Access
 
-## Introduction of the project
+## Introduction ✨
+
 The college's multifunctional card system, appropriately named the "UniAccess Card," serves as a comprehensive solution for various campus needs, including verification, identification, and payment gateways. This innovative system is designed to streamline administrative processes and enhance convenience for Students.
 
-One of the key features of the Card is that only the admin has the authority to issue these cards, ensuring security and control over their distribution. Each Card prominently displays comprehensive student details on one side, making it easy to identify and verify individuals. This not only helps in maintaining campus security but also facilitates smooth access to various campus facilities and services.
+## Technologies Used 🧑‍💻
 
-On the reverse side, the Card features a unique payment gateway ID, allowing users to securely make transactions within the campus ecosystem. This feature eliminates the need for multiple cards or accounts for different purposes, simplifying financial transactions for users.
+- Solidity
+- Reactjs
+- TailwindCSS
+- Html
+- Backend any of your choice
 
-## Uses of the card
+## Contact 📱
 
-1) ID Card: The system provides a multifunctional ID card that serves as a comprehensive solution for various campus needs.
+If you have any questions or feedback, please reach out to us at shobhit.2201140ec@iiitbh.ac.in  📧
 
-2) Verification: The ID card ensures quick and reliable verification of individuals within and outside the campus ecosystem, enhancing security and convenience.
+### Setup
 
-3) Payment: The ID card features a built-in payment gateway ID, enabling secure transactions within the campus and eliminating the need for separate payment methods.
+To set up **Uni Access** on your local machine, follow these steps:
 
-4) Valid ID Proof: The ID card acts as a valid ID proof, displaying comprehensive student details on one side and a unique ID for payment gateways on the other, ensuring easy identification and verification.
+1. Fork the repository:
 
-## Functionalities of the card(Solidity part)
+   - Click the "Fork" button at the top right corner of this repository's page on GitHub. This will create a copy of the repository in your GitHub account.
 
-1) Data Storage: The system includes a secure data storage feature to store user information safely.The user needs to enter his Name,Roll Number,Batch,Stream,Photo,Signature and Aadhar number(this will not be displayed but will be used to generate user_kechhhak).
+2. Clone the forked repository:
 
-2) Picture and Signature to NFT: Users can convert their pictures and signatures into non-fungible tokens (NFTs), ensuring their uniqueness and authenticity.
+```bash
+git clone https://github.com/<yourusername>/uni_access.git
+```
 
-3) Link Account to NFT: Users can link their accounts to their NFTs, providing a secure and verifiable connection between their identity and digital assets.
+3. Navigate to the project directory:
 
-4) Generate Kechhak256 with Details: The system generates a unique Kechhak256 hash for each userlet's call it user_kechhak, incorporating their details for identification purposes and when the user will click on this Kechchak he/she will be redirected to a payment gateway.
+```bash
+cd uni_access
+```
 
-5) Admin Contract: An admin-exclusive contract is utilized to generate a unique Kechhak256 hash let's call it admin_kechhak and enter user details securely.
+4. Install Node.js dependencies(make sure node is installed on your laptop):
 
-6) User ID and Password Generation: Using the Kechhak256 hash provided by the admin, the system generates a user ID and password. The user ID is unique and can only be generated once, but a "forget password" option is available.
+```bash
+npm i
+```
+5.  Open the contract folder and copy all the contents of the uni_access.sol file and paste it on remix (or you can use VS Code but  remix ide is recommended). Remix ide(link) : http://lnkiy.in/Remix_ide
+6.  Create a new branch for your feature or bug fix.
+7.  Make your changes and commit them.
+8.  Push to the branch.
+9.  Submit a pull request with the issue number.
 
-7) Forget Password Process: To reset a password, users can utilize the admin_Kechhak256 hash along with their user ID for authentication.
+## Note:
+You must read the google docx provided to you in the about section. 
 
-8) Password Protection: If an incorrect password is entered more than three times, the card is automatically blocked for 24 hours as a security measure.
-
-9) Limited User Details: When a user sends their details, only their name and batch information are visible to maintain privacy.
-
-## Frontend of the card
- 
- Frontend of the card : The frontend part of the card should be made in Reactjs, HTML and Tailwind CSS .
- 
- Front part of the card : The card will be divided of two section, the left section which will contain Profile picture and signature while the right section will contain Name, Roll Number, Batch, Stream.
-
- Back part of the card : The card will be divided into three rows where the topmost part will contain the college logo along with college name , the middle part will display the kechhak(user_lechhak) of the student and this will redirect us to the payment gateway , and the last row will contain the normal guidlines generally  present on all cards.
-
- ## Backend of the card
-
- The database for the backend of the card can be made in any framework according to your choice. 
- 
+You are good to go to make your contribution!! All the best!.
