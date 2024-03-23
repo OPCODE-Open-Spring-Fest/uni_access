@@ -14,7 +14,7 @@ The college's multifunctional card system, appropriately named the "UniAccess Ca
 
 ## Contact 📱
 
-If you have any questions or feedback, please reach out to us at shobhit.2201140ec@iiitbh.ac.in  📧
+If you have any questions or feedback, please reach out to us at shobhit.2201140ec@iiitbh.ac.in or dhruv.2101211cs@iiitbh.ac.in 📧
 
 ### Setup
 
